@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+header {
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+}
+#logo{
+    width: 30%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+img{
+    border-radius: 50px;
+}
+#banner{
+    width: 70%;
+    background-color: burlywood;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+#banner h1{
+    width: 100%;
+    text-align: center; 
+    margin-top: 10px;
+}
+ul {
+    display: flex;
+    list-style: none;
+    width: 100%;
+    justify-content: flex-end;
+    
+}
+ul li {
+    margin: 20px;
+}
+
+#corpodotexto{
+    background-color:blanchedalmond;
+    width: 207vh;
+    height: 40vh;
+    display: flex;
+    text-align: center;
+}
+#corpo2{
+    background-color: burlywood;
+    width: 207vh;
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
+#corpo3{
+    background-color: chocolate;
+    width: 207vh;
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
+#corpo4{
+    background-color: coral;
+    width: 207vh;
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
+#corpo5{
+    background-color: darkgoldenrod;
+    width: 207vh;
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
+#corpo6{
+    background-color: darkkhaki;
+    width: 207vh;
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
+#corpo7{
+    background-color: darkolivegreen;
+    width: 207vh;
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
+#corpo8{
+    background-color: gold;
+    width: 207vh;
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
+#corpo9{
+    background-color: grey;
+    width: 207vh;
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
+#corpo10{
+    background-color: brown;
+    width: 207vh;
+    height:40vh;
+    display: flex;
+    flex-direction: row;
+}
